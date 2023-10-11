@@ -15,10 +15,10 @@ Data was analyzed using pandas dataframes and visualized using seaborn. Notebook
 
 ## Data Plots
 
-# Bar Plot to Visualize Coupon Column
+### Bar Plot to Visualize Coupon Column
 ![bar plot to visualize the coupon column](/images/barcoupons.png "bar plot to visualize the coupon column")
 
-# Hist Plot to Visualize Temperature Column
+### Hist Plot to Visualize Temperature Column
 ![Hist plot to visualize the temperature column](/images/temperature.png "Hist plot to visualize the temperature column")
 
 
