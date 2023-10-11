@@ -15,16 +15,18 @@ Data was analyzed using pandas dataframes and visualized using seaborn. Notebook
 
 ## Analysis and Observations of Bar Coupon users
 
-Criteria     | Acceptance Rate
--------- | -----
-Computer | $1600
-Phone    | $12
-Pipe     | $1
-
-
 To narrow down and focus on a particular segment, bar coupons were analyzed more detailed. Here are the observation
 
+Criteria     | Acceptance Rate
+-------- | -----
+Went to bar more than once and are over 25 years of age | 0.14532148457919497
+Went to bar more than once and had passengers that were not a kid and had occupations other than farming, fishing or forestry | 0.0705697856769472
+Went to bars more than once a month, had passengers that were not a kid, and were not widowed| 0.0705697856769472
+Went to bars more than once a month and are under the age of 30| 0.12336644014636697
 
+Criteria     | Acceptance Rate
+-------- | -----
+Number of individuals who go to cheap restaurants more than 4 times a month and income is less than 50K | 0.07945635128071092
 
 
 ## Additional Analysis and Observations of Coffee House users
