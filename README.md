@@ -13,6 +13,17 @@ This data is from  UCI Machine Learning repository and was collected via a surve
 
 Data was analyzed using pandas dataframes and visualized using seaborn. Notebook reference  [Here](https://github.com/maskbit/CustomerCoupons/blob/main/notebook/prompt.ipynb)
 
+## Data Plots
+
+# Bar Plot to Visualize Coupon Column
+![bar plot to visualize the coupon column](/images/barcoupons.png "bar plot to visualize the coupon column")
+
+# Hist Plot to Visualize Temperature Column
+![Hist plot to visualize the temperature column](/images/temperature.png "Hist plot to visualize the temperature column")
+
+
+
+
 ## Analysis and Observations of Bar Coupon users
 
 To narrow down and focus on a particular segment, bar coupons were analyzed in more detail. Here are some of the observations
