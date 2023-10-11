@@ -29,7 +29,7 @@ Criteria     | Acceptance Rate
 Number of individuals who go to cheap restaurants more than 4 times a month and income is less than 50K | 0.07945635128071092
 
 
-## Additional Analysis and Observations of Coffee House users
+## Additional Analysis and Observations of Coffee House coupon users
  
 
 Criteria     | Acceptance Rate
